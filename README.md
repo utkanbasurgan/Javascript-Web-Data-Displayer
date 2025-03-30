@@ -26,7 +26,7 @@ Supports partial data loading for infinite scroll implementations
 Memory-efficient data handling for large result sets
 
 Developer-Friendly Implementation
-
+NEP API
 Simple configuration through JSON or JavaScript objects
 Customizable rendering hooks for tailored data presentation
 Comprehensive documentation and usage examples
