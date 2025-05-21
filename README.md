@@ -1,4 +1,7 @@
 Overview
+
+--
+
 Javascript-Web-Data-Displayer is a lightweight JavaScript library designed for efficient data synchronization between web applications and MySQL databases. It employs asynchronous fetching techniques to load and display database content in tables without impacting initial page load performance.
 Key Features
 Non-Blocking Data Loading
@@ -25,7 +28,7 @@ Implements data caching to reduce redundant database queries
 Supports partial data loading for infinite scroll implementations
 Memory-efficient data handling for large result sets
 
-NEP API
+NEPARTH API
 Simple configuration through JSON or JavaScript objects
 Customizable rendering hooks for tailored data presentation
 Comprehensive documentation and usage examples
