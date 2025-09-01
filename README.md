@@ -1,6 +1,6 @@
 Overview
 
---
+--ss
 
 Javascript-Web-Data-Displayer is a lightweight JavaScript library designed for efficient data synchronization between web applications and MySQL databases. It employs asynchronous fetching techniques to load and display database content in tables without impacting initial page load performance.
 Key Features
