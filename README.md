@@ -10,7 +10,7 @@ Implements progressive rendering to ensure the page interface loads completely b
 Utilizes asynchronous JavaScript to fetch data in the background while maintaining UI responsiveness
 Eliminates the traditional waiting period associated with server-side database queries
 
-MySQL Database Integration
+MySQL Database Integrationss
 
 Direct connection interface with MySQL databases through secure API endpoints
 Support for complex SQL queries with parameterization for security
